@@ -1,0 +1,73 @@
+<resources>
+    <string name="app_name">App Info Game</string>
+    <string name="main_title">10 Game Paling Banyak Dimainkan</string>
+    <string name="detail_title">Game Detail</string>
+    <string name="profile">Lihat Profil</string>
+    <string name="imageDesc">Gambar</string>
+
+    <string name="game_name">Nama Game</string>
+    <string name="description">Deskripsi</string>
+
+    <string name="example">This is a text</string>
+
+    <string name="about">About</string>
+
+    <string name="share">Share</string>
+
+    <string name="profile_name">Muhamad Luthfi Farid Sidik</string>
+    <string name="profile_email">m.luthfifarid@gmail.com</string>
+
+    <string name="splash_text">Splash Screen App Info Game</string>
+
+    <string-array name="data_name">
+        <item>Counter Strike 2</item>
+        <item>Dota 2</item>
+        <item>Baldur\'s Gate 3</item>
+        <item>Apex Legends</item>
+        <item>Call of Duty</item>
+        <item>PUBG: Battlegrounds</item>
+        <item>Cyberpunk 2077</item>
+        <item>Team Fortress 2</item>
+        <item>Grand Theft Auto V</item>
+        <item>Rust</item>
+    </string-array>
+
+    <string-array name="data_description">
+        <item>Sebuah game first-person shooter yang merupakan sekuel dari Counter-Strike, di mana pemain dapat bergabung dalam tim Teroris atau Kontrateroris dalam pertempuran intens untuk menyelesaikan misi atau menghancurkan tim lawan.</item>
+        <item>Game multiplayer online battle arena (MOBA) yang memungkinkan pemain untuk memilih karakter (hero) unik dan berpartisipasi dalam pertandingan tim strategis melawan tim lawan.</item>
+        <item>Game role-playing yang berlatar di dunia fantasi Dungeons &amp; Dragons, dengan cerita yang mendalam dan penuh pilihan yang memengaruhi perkembangan karakter dan alur cerita.</item>
+        <item>Battle royale game dengan beragam legenda (heroes) yang memiliki kemampuan unik, di mana pemain membentuk tim untuk bertahan dan bersaing dalam pertempuran hingga satu tim tersisa.</item>
+        <item>Sebuah iterasi terbaru dari seri permainan tembak-menembak populer, dengan fokus pada grafis canggih, cerita yang mendalam, dan banyak mode permainan, termasuk multiplayer dan kampanye.</item>
+        <item> Game battle royale yang membawa pemain ke pulau besar dan memaksa mereka untuk bersaing dalam pertempuran tanpa henti hingga hanya satu pemain atau tim yang tersisa.</item>
+        <item>Game open-world yang berlatar di masa depan dystopian dengan elemen RPG, menawarkan pemain pengalaman eksplorasi kota yang penuh dengan karakter dan cerita yang kompleks.</item>
+        <item>Game first-person shooter tim yang memungkinkan pemain untuk memilih dari beragam kelas karakter dengan kemampuan dan senjata yang berbeda, dengan fokus pada kerjasama tim.</item>
+        <item>Game aksi open-world dengan cerita yang kaya, di mana pemain dapat menjelajahi kota Los Santos, melakukan misi, dan terlibat dalam aktivitas kriminal serta berbagai jenis kesenangan lainnya.</item>
+        <item>Sebuah game survival open-world yang menantang pemain untuk bertahan hidup di lingkungan yang keras dan berbahaya. Pemain harus mencari sumber daya, membangun perlindungan, berinteraksi dengan pemain lain (baik secara kooperatif atau konfrontatif), dan berusaha untuk tidak hanya menghindari ancaman alam, tetapi juga pemain lain yang mencoba untuk bertahan hidup atau menyerang. Rust menonjol dengan grafis yang realistis dan elemen permainan yang dinamis, serta fokus pada komunitas pemain yang aktif.</item>
+    </string-array>
+
+    <string-array name="data_description_addition">
+        <item>Counter-Strike 2 (CS 2) adalah sekuel dari salah satu game first-person shooter paling ikonik dalam sejarah permainan video. Game ini mempertahankan inti gameplay yang sangat kompetitif dan memikat pemain dengan pertempuran tim yang terkoordinasi. Dalam CS 2, pemain dapat memilih untuk bergabung dengan Tim Teroris yang ingin mengeksekusi misi berbahaya atau Tim Kontrateroris yang berusaha mencegahnya. Setiap pemain memiliki tanggung jawabnya sendiri, dan komunikasi tim adalah kunci kesuksesan. Grafis yang lebih modern dan peningkatan fitur gameplay menjadikan CS 2 sebagai pilihan utama bagi pecinta aksi dan kompetisi yang sengit.</item>
+        <item>Dota 2 adalah mahakarya dalam genre multiplayer online battle arena (MOBA). Game ini memikat para pemain dengan seleksi pahlawan yang luar biasa, masing-masing dengan kemampuan unik mereka sendiri. Dota 2 adalah permainan yang membutuhkan strategi, koordinasi tim, dan keterampilan individu yang tinggi. Pemain bekerja sama dalam tim untuk menghancurkan basis musuh, dan setiap pertandingan adalah pengalaman yang unik. Komunitas yang sangat kuat dan turnamen berhadiah besar menjadikan Dota 2 salah satu game eSport paling menonjol di dunia.</item>
+        <item>Baldur\'s Gate 3 adalah permainan role-playing yang mengangkat standar genre ini ke tingkat baru. Terletak di dunia Dungeons &amp; Dragons yang terkenal, game ini menawarkan pemain cerita mendalam dengan kebebasan yang tak terbatas. Anda dapat membuat karakter Anda sendiri, menjelajahi dunia yang kaya akan rincian, dan berinteraksi dengan berbagai karakter yang mendalam. Pilihan yang Anda buat dalam perjalanan cerita akan memengaruhi alur permainan dan perkembangan karakter Anda. Grafis yang indah dan sistem pertarungan yang mendalam menjadikan Baldur\'s Gate 3 sebagai game RPG yang luar biasa.</item>
+        <item>Apex Legends adalah salah satu game battle royale terpopuler yang menawarkan pengalaman bermain yang sangat dinamis. Pemain memilih dari beragam pahlawan yang memiliki kemampuan unik, dan kemudian mereka bekerja sama dalam tim tiga orang untuk bertahan hidup dalam pertempuran yang intens. Selain permainan yang penuh aksi, Apex Legends memiliki cerita yang dalam dan pembaruan berkala yang memperkenalkan elemen baru dan pahlawan tambahan. Ini adalah permainan yang cocok untuk mereka yang mencari tantangan strategis dan aksi berkecepatan tinggi.</item>
+        <item>Permainan Call of Duty terbaru, yang diantisipasi dengan sangat besar, membawa grafis yang luar biasa, cerita mendalam, dan beragam mode permainan. Pemain dapat terjun ke dalam pengalaman perang yang intens dengan mode multiplayer yang disempurnakan atau menjalani petualangan pribadi dalam mode kampanye. Call of Duty selalu dikenal dengan kualitas produksi tinggi dan gameplay yang adiktif, dan edisi terbaru ini tidak akan mengecewakan para penggemar waralaba ini.</item>
+        <item>PUBG adalah pionir dalam genre battle royale dan tetap menjadi salah satu yang paling populer. Pemain terjun ke pulau besar, mencari senjata, peralatan, dan berusaha bertahan hidup sampai akhir. Dinamika permainan yang realistis, peta yang luas, dan perasaan ketegangan saat Anda berusaha menjadi yang terakhir bertahan hidup menjadikan PUBG pengalaman yang mendebarkan.</item>
+        <item>Dengan latar belakang masa depan yang gelap dan futuristik, Cyberpunk 2077 adalah game open-world yang mengeksplorasi isu-isu sosial, teknologi, dan moral. Pemain mengendalikan karakter V yang mencoba berjuang untuk bertahan hidup di kota terdepan yang dikuasai oleh kekuatan korporasi dan kriminalitas. Cerita yang dalam, karakter yang kompleks, dan pilihan moral yang sulit adalah inti dari pengalaman ini. Terlepas dari beberapa masalah teknis awal, game ini tetap memukau pemain dengan dunia yang penuh dengan detail dan nuansa.</item>
+        <item>Team Fortress 2 adalah game first-person shooter tim yang berfokus pada kerjasama. Pemain memilih dari beragam kelas karakter, masing-masing dengan peran dan kemampuan unik, dan bekerja sama untuk mencapai tujuan tim. Grafik kartun yang khas dan humor yang cerdas menjadikan game ini menyenangkan. Komunitas yang kuat dan pembaruan reguler menjaga kesegaran permainan.</item>
+        <item>GTA V adalah salah satu game open-world paling ambisius dan meresahkan dalam sejarah. Terletak di kota Los Santos yang sangat terperinci, pemain dapat menjelajahi lingkungan yang sangat hidup dan melakukan berbagai tindakan kriminal. Cerita kampanye yang kaya, berbagai aktivitas sampingan, dan mode multiplayer yang luas menjadikan GTA V sebagai game yang memiliki banyak hal untuk ditawarkan kepada pemain.</item>
+        <item>Rust adalah salah satu game survival yang paling menantang dan ketat. Terdampar di pulau liar, pemain harus bertahan hidup dengan mencari sumber daya, membangun perlindungan, dan berinteraksi dengan pemain lain yang bisa menjadi teman atau musuh. Kegembiraan permainan ini adalah bahwa tidak ada peraturan, dan pemain harus memutuskan sendiri bagaimana mereka akan bertahan hidup. Ini adalah permainan yang membangun kerja sama, kecerdikan, dan kemampuan bertahan hidup yang kuat. Rust juga menciptakan pengalaman sosial yang menarik dengan politik dan konflik antar-pemain yang dapat berkembang.</item>
+    </string-array>
+
+    <integer-array name="data_photo">
+        <item>@drawable/cs2</item>
+        <item>@drawable/dota2</item>
+        <item>@drawable/baldur_gate3</item>
+        <item>@drawable/apex</item>
+        <item>@drawable/cod</item>
+        <item>@drawable/pubg</item>
+        <item>@drawable/cyberpunk</item>
+        <item>@drawable/team_fortress2</item>
+        <item>@drawable/gta_v</item>
+        <item>@drawable/rust</item>
+    </integer-array>
+</resources>
